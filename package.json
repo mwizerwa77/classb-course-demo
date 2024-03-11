@@ -1,8 +1,9 @@
 {
   "name": "classb-course-demo",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Learning node js expresss and mongo",
   "main": "index.js",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
